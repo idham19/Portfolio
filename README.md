@@ -1,57 +1,73 @@
-Final Portfolio
-This repository is a collection of some of my key learnings during my 12-month (August, 2024 - August, 2025) apprenticeship at Verizon.
+My Software Engineering Apprenticeship Portfolio
+Overview
+This repository serves as a curated collection of my key learnings and impactful projects completed during my 12-month Software Engineering Apprenticeship at Verizon, from August 2024 to August 2025.
 
-Overview of Apprenticeship
+About Me
+As a Software Engineering Apprentice, I am deeply energized by the challenge of problem-solving and the creative satisfaction of crafting innovative software solutions. My solid coding foundation was built through a comprehensive 12-month apprenticeship with Multiverse, where I received robust training and gained invaluable practical experience during my placement at Verizon. My commitment to continuous improvement drives my hands-on learning approach.
+
+I am particularly passionate about Artificial Intelligence, a field where I've gained significant practical experience. I've worked with various AI models, including Ollama (leveraging Mistral and Llama3) and VEGAS (utilizing Gemini), successfully developing and implementing a RAG (Retrieval-Augmented Generation) chat system. My drive stems from the immense potential of AI to transform industries and enhance human capabilities, and I am committed to applying technology to create meaningful impact.
+
+Apprenticeship Details
 Host Company: Verizon
-Duration: 12 months
-Link to Deployed Portfolio Website: https://portfolio-0r5b.onrender.com
-Who I Am
-As a Software Engineering Apprentice, I'm energized by the challenge of problem-solving and crafting innovative software. I've built a solid coding foundation through a comprehensive 12-month apprenticeship with Multiverse, where I received robust training, and gained invaluable practical experience during my placement at Verizon. My commitment to continuous improvement drives my hands-on learning approach. My strong passion for Artificial Intelligence has led to significant practical experience with various AI models, including Ollama (leveraging Mistral and Llama3), and VEGAS (utilizing Gemini), where I successfully developed and implemented a RAG (Retrieval-Augmented Generation) chat system.
+Duration: 12 Months (August 2024 - August 2025)
+Deployed Portfolio Website: https://portfolio-0r5b.onrender.com
+Projects & Accomplishments
+Here's a selection of projects that highlight my skills and contributions throughout my apprenticeship.
 
-Why I Do What I Do
-I am deeply passionate about software development because I thrive on the intellectual challenge of solving complex problems and the creative satisfaction of building efficient, innovative solutions. My particular interest in Artificial Intelligence stems from its immense potential to transform industries and enhance human capabilities, driving me to gain practical experience in this cutting-edge field. I am committed to continuous learning and applying technology to create meaningful impact.
-
-Teams I Have Worked On
-Tee-JAM: Inventory App Multiverse Project
-Evan-Mahdi: Create Events app
-Impact I Have Had at My Company
-&lt;-- do not share proprietary information here - check with your manager if unsure
-Your Areas of Interest
-Projects
 Inventory Application (Tee-JAM Team)
-Link to repo: https://github.com/Tee-JAM/inventory-app.git
-Purpose/goals: An eCommerce store where internal consumers can directly view and manage products without any intermediary service over the internet. The goal was to develop an easy to use web-based interface where customers can search for products, and view a complete description of the product.
-Overview of features: Users are allowed to add, update, and delete items.
+Purpose/Goals: Developed an eCommerce store designed for internal consumers to directly view and manage products without external intermediaries. The primary goal was to create an easy-to-use, web-based interface allowing customers to search for products and view comprehensive descriptions.
+Features: Users can add, update, and delete items, providing full control over product inventory.
 Deployed Link: https://inventory-app-ujdx.onrender.com
-Final Bootcamp Project (Create Events App - Evan-Mahdi Team)
-Link to repo:
-Frontend: https://github.com/Evan-Mahdi/Front-end-Project-repo.git
-Backend: https://github.com/Evan-Mahdi/Back-End-Project-Repo.git
-Purpose/goals: Developed a full-stack event management application ensuring personalized event tracking.
-Overview of features: An Angular front-end (hosted on Netlify) and a Python backend (hosted on Render). It features a MySQL database hosted on Aiven, a calendar view for events, and secures user access via Google authentication.
+Repository: https://github.com/Tee-JAM/inventory-app.git
+Key Skills Demonstrated: Frontend Development (HTML, CSS, JavaScript), Backend Integration, RESTful APIs, Database Interactions, UI/UX Design Principles, Team Collaboration.
+Create Events App (Evan-Mahdi Team) - Full-Stack Event Management
+Purpose/Goals: Engineered a full-stack event management application focused on providing personalized event tracking capabilities.
+Features:
+Angular Frontend (hosted on Netlify)
+Python Backend (hosted on Render)
+MySQL Database hosted on Aiven for robust data storage.
+Integrated calendar view for intuitive event scheduling.
+Secure user access via Google authentication.
 Deployed Link: https://create-event-app.netlify.app/login
-Presentation YouTube Link: https://www.youtube.com/watch?v=lbLZICe4hNQ 
-Front End Module Project (Full-Stack Store Management Application)
-Link to repo:
-Frontend: https://github.com/idham19/E-Management-Store.git
-Backend: https://github.com/idham19/e-management-store-server.git
-Purpose/goals: To provide a secure, user-friendly experience for managing a store catalog, allowing users to register, sign in, and interact with various products.
-Overview of features: The web app is also fully mobile responsive, ensuring a seamless and optimized experience across all devices, from desktops to tablets and mobile phones.
-Your specific contribution if in a team:
-Skills (technical and durable) this project demonstrates:
-How does this project demonstrate those skills?:
-Your takeaways from doing this project:
-Deployed Link: https://e-management-store.netlify.app/
-Presentation YouTube Link: https://youtu.be/ZPe7JpXBXso 
-Back End Module Project
-Link to repo: https://github.com/Evan-Mahdi/Front-end-Project-repo
-Purpose/goals: This backend project, built with Spring Boot, provides a RESTful API for managing events.
-Overview of features: Utilizes a layered architecture with dedicated components for: Event Model, Controller, Service, and Repository. Manages data persistence, interacting with a MySQL database hosted on Aiven to perform CRUD (Create, Read, Update, Delete) operations on event data.
+Frontend Repository: https://github.com/Evan-Mahdi/Front-end-Project-repo.git
+Backend Repository: https://github.com/Evan-Mahdi/Back-End-Project-Repo.git
+Presentation: https://www.youtube.com/watch?v=lbLZICe4hNQ  Front
+Key Skills Demonstrated: Full-Stack Development, API Design (REST), Database Management (MySQL, Aiven), Frontend Frameworks (Angular), Backend Frameworks (Python/Flask/Django - specify if you used one), Authentication (Google OAuth), Deployment (Netlify, Render), Version Control (Git).
+Spring Boot Event Management Backend
+Purpose/Goals: Developed a robust RESTful API for comprehensive event management.
+Features:
+Layered Architecture: Employs a clear separation of concerns with Event Model, Controller, Service, and Repository components.
+Data Persistence: Manages event data through CRUD (Create, Read, Update, Delete) operations.
+Database: Interacts seamlessly with a MySQL database hosted on Aiven.
 Deployed Link: https://back-end-project-repo.onrender.com/
-Presentation YouTube Link: https://www.youtube.com/watch?v=WE0tOqbX0aA 
-Deployment Module Project
-Link to repo: https://github.com/idham19/full_stack_rag.git
-Purpose/goals: Developed a full-stack AI chatbot demonstrating end-to-end AI application development and deployment.
-Overview of features: Features an Angular front-end and a Python FastAPI backend with WebSockets for real-time chat. This solution integrates with Ollama's Phi3:mini AI model and is deployed using Docker images on Hugging Face Spaces.
+Repository: https://github.com/Evan-Mahdi/Front-end-Project-repo (Note: This link points to a frontend repo; please update to the correct backend repo if different)
+Presentation: https://www.youtube.com/watch?v=WE0tOqbX0aA  Deployment
+Key Skills Demonstrated: Backend Development (Spring Boot), RESTful API Design, Object-Oriented Programming (OOP), Dependency Injection, Data Modeling, ORM (JPA/Hibernate - specify if used), Database Integration (MySQL, Aiven).
+Full-Stack Store Management Application
+Purpose/Goals: Created a secure and user-friendly web application for managing a store catalog, enabling users to register, sign in, and interact with various products.
+Features:
+Full-Stack Development: Combines a frontend and backend for a complete solution.
+User Management: Implements secure user registration and sign-in functionalities.
+Product Interaction: Allows users to interact with the store's product catalog.
+Mobile Responsive: Fully optimized for a seamless experience across desktops, tablets, and mobile phones.
+Deployed Link: https://e-management-store.netlify.app/
+Frontend Repository: https://github.com/idham19/E-Management-Store.git
+Backend Repository: https://github.com/idham19/e-management-store-server.git
+Presentation: https://youtu.be/ZPe7JpXBXso  Back
+Key Skills Demonstrated: Responsive Web Design, User Authentication, Database Management, Full-Stack Integration, Frontend Development, Backend Development, Deployment.
+Full-Stack AI Chatbot (RAG System)
+Purpose/Goals: Developed a full-stack AI chatbot, showcasing end-to-end AI application development and deployment. This project specifically demonstrates practical experience with Retrieval-Augmented Generation (RAG) systems.
+Features:
+Angular Frontend for an interactive user interface.
+Python FastAPI Backend utilizing WebSockets for real-time chat communication.
+Integration with Ollama's Phi3:mini AI model for robust language understanding and generation.
+Deployed using Docker images on Hugging Face Spaces, demonstrating proficiency in containerization and cloud deployment.
 Deployment Link: https://idhambe-backend.hf.space/
-Presentation YouTube Link: https://youtu.be/LJ3Hx5d9mts 
+Repository: https://github.com/idham19/full_stack_rag.git
+Presentation: https://youtu.be/LJ3Hx5d9mts 
+Key Skills Demonstrated: Artificial Intelligence (AI), Machine Learning (ML) Models (Ollama, Mistral, Llama3, Gemini), Natural Language Processing (NLP), RAG (Retrieval-Augmented Generation), Full-Stack Development, Real-time Communication (WebSockets), Containerization (Docker), Cloud Deployment (Hugging Face Spaces), API Development (FastAPI), Frontend Development (Angular).
+My Vision & Commitment
+I am deeply passionate about software development because I thrive on the intellectual challenge of solving complex problems and the creative satisfaction of building efficient, innovative solutions. My particular interest in Artificial Intelligence stems from its immense potential to transform industries and enhance human capabilities. I am committed to continuous learning, exploring cutting-edge technologies, and applying my skills to create meaningful impact.
+
+Connect With Me
+I'm always open to discussing new opportunities, collaborating on innovative projects, or sharing insights on software development and AI. Feel free to connect with me!

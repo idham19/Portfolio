@@ -109,9 +109,4 @@ I am deeply passionate about software development because I thrive on the intell
 ## **Connect With Me**
 
 I'm always open to discussing new opportunities, collaborating on innovative projects, or sharing insights on software development and AI. Feel free to connect with me!
-
-* **LinkedIn:** [Your LinkedIn Profile Link Here]
-* **Email:** [Your Email Address Here]
-* **GitHub:** [https://github.com/YourGitHubUsername](https://github.com/YourGitHubUsername)
-
 ---

@@ -50,8 +50,7 @@ Here's a selection of projects that highlight my skills and contributions throug
 * **Deployed Link:** [https://create-event-app.netlify.app/login](https://create-event-app.netlify.app/login)
 * **Frontend Repository:** [https://github.com/Evan-Mahdi/Front-end-Project-repo.git](https://github.com/Evan-Mahdi/Front-end-Project-repo.git)
 * **Backend Repository:** [https://github.com/Evan-Mahdi/Back-End-Project-Repo.git](https://github.com/Evan-Mahdi/Back-End-Project-Repo.git)
-* **Presentation:** [![Create Events App Presentation](http://img.youtube.com/vi/YOUR_CREATE_EVENTS_VIDEO_ID/hqdefault.jpg)](http://www.youtube.com/watch?v=YOUR_CREATE_EVENTS_VIDEO_ID)
-    * *(Replace `YOUR_CREATE_EVENTS_VIDEO_ID` with the actual YouTube video ID for this project)*
+* **Presentation:** [https://www.youtube.com/watch?v=lbLZICe4hNQ  Front](https://www.youtube.com/watch?v=lbLZICe4hNQ  Front)
 * **Key Skills Demonstrated:** Full-Stack Development, API Design (REST), Database Management (MySQL, Aiven), Frontend Frameworks (Angular), Backend Frameworks (Python/Flask/Django - *specify if you used one*), Authentication (Google OAuth), Deployment (Netlify, Render), Version Control (Git).
 
 ---
@@ -64,9 +63,8 @@ Here's a selection of projects that highlight my skills and contributions throug
     * **Data Persistence:** Manages event data through **CRUD (Create, Read, Update, Delete)** operations.
     * **Database:** Interacts seamlessly with a **MySQL database hosted on Aiven**.
 * **Deployed Link:** [https://back-end-project-repo.onrender.com/](https://back-end-project-repo.onrender.com/)
-* **Repository:** [https://github.com/Evan-Mahdi/Front-end-Project-repo](https://github.com/Evan-Mahdi/Front-end-Project-repo) (Note: *Please confirm this is the correct repository link for the backend. If it's a separate repo, please update.*)
-* **Presentation:** [![Spring Boot Backend Presentation](http://img.youtube.com/vi/YOUR_SPRING_BOOT_VIDEO_ID/hqdefault.jpg)](http://www.youtube.com/watch?v=YOUR_SPRING_BOOT_VIDEO_ID)
-    * *(Replace `YOUR_SPRING_BOOT_VIDEO_ID` with the actual YouTube video ID for this project)*
+* **Repository:** [https://github.com/Evan-Mahdi/Front-end-Project-repo](https://github.com/Evan-Mahdi/Front-end-Project-repo) (Note: *This link points to a frontend repo; please update to the correct backend repo if different*)
+* **Presentation:** [https://www.youtube.com/watch?v=WE0tOqbX0aA  Deployment](https://www.youtube.com/watch?v=WE0tOqbX0aA  Deployment)
 * **Key Skills Demonstrated:** Backend Development (Spring Boot), RESTful API Design, Object-Oriented Programming (OOP), Dependency Injection, Data Modeling, ORM (JPA/Hibernate - *specify if used*), Database Integration (MySQL, Aiven).
 
 ---
@@ -82,8 +80,7 @@ Here's a selection of projects that highlight my skills and contributions throug
 * **Deployed Link:** [https://e-management-store.netlify.app/](https://e-management-store.netlify.app/)
 * **Frontend Repository:** [https://github.com/idham19/E-Management-Store.git](https://github.com/idham19/E-Management-Store.git)
 * **Backend Repository:** [https://github.com/idham19/e-management-store-server.git](https://github.com/idham19/e-management-store-server.git)
-* **Presentation:** [![Store Management Presentation](http://img.youtube.com/vi/YOUR_STORE_MANAGEMENT_VIDEO_ID/hqdefault.jpg)](http://www.youtube.com/watch?v=YOUR_STORE_MANAGEMENT_VIDEO_ID)
-    * *(Replace `YOUR_STORE_MANAGEMENT_VIDEO_ID` with the actual YouTube video ID for this project)*
+* **Presentation:** [https://youtu.be/ZPe7JpXBXso  Back](https://youtu.be/ZPe7JpXBXso  Back)
 * **Key Skills Demonstrated:** Responsive Web Design, User Authentication, Database Management, Full-Stack Integration, Frontend Development, Backend Development, Deployment.
 
 ---
@@ -98,8 +95,7 @@ Here's a selection of projects that highlight my skills and contributions throug
     * Deployed using **Docker images on Hugging Face Spaces**, demonstrating proficiency in containerization and cloud deployment.
 * **Deployment Link:** [https://idhambe-backend.hf.space/](https://idhambe-backend.hf.space/)
 * **Repository:** [https://github.com/idham19/full_stack_rag.git](https://github.com/idham19/full_stack_rag.git)
-* **Presentation:** [![AI Chatbot Presentation](http://img.youtube.com/vi/YOUR_AI_CHATBOT_VIDEO_ID/hqdefault.jpg)](http://www.youtube.com/watch?v=YOUR_AI_CHATBOT_VIDEO_ID)
-    * *(Replace `YOUR_AI_CHATBOT_VIDEO_ID` with the actual YouTube video ID for this project)*
+* **Presentation:** [https://youtu.be/LJ3Hx5d9mts ](https://youtu.be/LJ3Hx5d9mts )
 * **Key Skills Demonstrated:** Artificial Intelligence (AI), Machine Learning (ML) Models (Ollama, Mistral, Llama3, Gemini), Natural Language Processing (NLP), RAG (Retrieval-Augmented Generation), Full-Stack Development, Real-time Communication (WebSockets), Containerization (Docker), Cloud Deployment (Hugging Face Spaces), API Development (FastAPI), Frontend Development (Angular).
 
 ---
@@ -113,5 +109,9 @@ I am deeply passionate about software development because I thrive on the intell
 ## **Connect With Me**
 
 I'm always open to discussing new opportunities, collaborating on innovative projects, or sharing insights on software development and AI. Feel free to connect with me!
+
+* **LinkedIn:** [Your LinkedIn Profile Link Here]
+* **Email:** [Your Email Address Here]
+* **GitHub:** [https://github.com/YourGitHubUsername](https://github.com/YourGitHubUsername)
 
 ---

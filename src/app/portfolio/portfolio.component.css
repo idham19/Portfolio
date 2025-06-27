@@ -63,7 +63,7 @@ nav {
   position: fixed;
   top: 0;
   left: 0%;
-  width: 15%;
+  width: 10%;
   z-index: 11;
   margin-right: 3rem;
 }
@@ -122,7 +122,7 @@ nav .sociale__icon {
 
 nav .sociale__icon i {
   font-size: 2rem;
-  padding: 0.4rem;
+  padding: 0.3rem;
   color: #ffffff;
   transition:all 0.7s;
 }
@@ -340,7 +340,7 @@ nav button span {
 }
 
 .about {
-  margin-top: -20rem;
+  margin-top: -30rem;
   position: relative;
   text-align: center;
   align-items: center;
@@ -353,7 +353,7 @@ nav button span {
 
 .about .container h1 {
   font-size: 3rem;
-  margin-bottom: 1rem;
+  /* margin-bottom: 1rem; */
   font-weight: 600;
 }
 
@@ -433,7 +433,7 @@ nav button span {
 .works .container .work__container .work {
   border: 1px solid transparent;
   border-radius: 15px;
-  box-shadow: 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.233);
+  box-shadow: 0.4rem 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.233);
   background-color: rgb(255, 255, 255);
   position: relative;
   color: rgb(0, 0, 0);
@@ -574,12 +574,9 @@ transform: scale(1.05) ;
 }
 
 .skills .container {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   justify-content: center;
   text-align: center;
-  display: -ms-grid;
   display: grid;
 }
 
@@ -747,7 +744,7 @@ transform: scale(1.05) ;
 }
 
 .skills .container .other__skills .skill__container .skill h3 {
-  border-left: 1px solid #065685;
+  border-left: 5px solid #2e92cc;
   padding: 1rem;
   letter-spacing: 2px;
   text-align: left;

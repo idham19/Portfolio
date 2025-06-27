@@ -27,14 +27,17 @@
     gap: 4rem;
   }
   
-  .header .container .header__info h1 {
+  h1 {
     font-size: 3rem;
     font-weight: 300;
+    margin-bottom: 1rem;
     
   }
   
-  .header .container .header__info h4 {
-    font-weight: 400;
+   h4 {
+    font-weight: 200;
+    margin-bottom: 2rem;
+
   }
   
   .header .container .header__info p {
@@ -62,7 +65,33 @@
     background-color: black;
     transform: scale(1.1);
   }
+  h2{
+    margin-bottom: 1rem;
+  }
+  body {
+    font-family: 'Nunito', 'Inter', sans-serif;
+  }
   
+  h1, h4, h2 {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600; 
+  }
+  
+  p, ul, li,h4 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 300; 
+    line-height: 2rem;
+  }
+  b{
+    font-weight: 700;
+  }
+
+  i{
+  font-size: 2rem;
+  padding: 0.3rem;
+  color: #000000;
+  transition:all 0.7s;
+  }
   @media screen and (max-width: 1050px) {
     .header {
       padding: 2rem 1rem;

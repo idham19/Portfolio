@@ -7,4 +7,14 @@ import { Component } from '@angular/core';
 })
 export class SiteHeaderComponent {
 
+  ngOnInit(): void {
+    const button = document.querySelector('.button');
+    const navMenu = document.querySelector('.nav__menu');
+
+    button?.addEventListener('click', () => {
+      button.classList.toggle('active');
+      navMenu?.classList.toggle('active');
+    });
+  }
 }
+

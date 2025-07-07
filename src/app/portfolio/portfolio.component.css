@@ -257,16 +257,9 @@ nav button span {
   box-shadow: -5rem -4rem 3rem rgba(255, 255, 255, 0.04);
 }
 
-.header .container .text__container .text-1 h3 {
-  margin-top: 3rem;
-}
 
-.header .container .text__container .text-1 h4 {
-  margin-top: 2rem;
-}
-
-.header .container .text__container .text-1 h1 {
-  margin-top: 8rem;
+.text-1 h1 {
+  margin-top: 5rem;
   font-size: 3rem;
   animation: animate 2s;
   position: relative;
@@ -352,9 +345,10 @@ nav button span {
 }
 
 .about .container h1 {
-  font-size: 3rem;
+  font-size: 2rem;
   /* margin-bottom: 1rem; */
   font-weight: 600;
+  margin-top: 7rem;
 }
 
 .about .container p {

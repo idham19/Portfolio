@@ -10,7 +10,7 @@ This repository serves as a curated collection of my key learnings and impactful
 
 ## **About Me**
 
-As a **Software Engineering Apprentice**, I am deeply energized by the challenge of problem-solving and the creative satisfaction of crafting innovative software solutions. My solid coding foundation was built through a comprehensive 12-month apprenticeship with **Multiverse**, where I received robust training and gained invaluable practical experience during my placement at Verizon. My commitment to continuous improvement drives my hands-on learning approach.
+As a **Software Engineering Apprentice**, I am deeply energized by the challenge of problem-solving and the creative satisfaction of crafting innovative software solutions. My solid coding foundation was built through a comprehensive 12-month apprenticeship with **Multiverse**, where I received robust training and gained invaluable practical experience during my placement at Verizon, including working with the **payroll team**. My commitment to continuous improvement drives my hands-on learning approach.
 
 I am particularly passionate about **Artificial Intelligence**, a field where I've gained significant practical experience. I've worked with various AI models, including **Ollama** (leveraging Mistral and Llama3) and **VEGAS** (utilizing Gemini), successfully developing and implementing a **RAG (Retrieval-Augmented Generation) chat system**. My drive stems from the immense potential of AI to transform industries and enhance human capabilities, and I am committed to applying technology to create meaningful impact.
 
